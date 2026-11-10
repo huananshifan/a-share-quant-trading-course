@@ -1,0 +1,23 @@
+{
+  "symbol": "510300",
+  "start_requested": "20200102",
+  "end_requested": "20261020",
+  "start_actual": "2020-01-02",
+  "end_actual": "2026-10-20",
+  "rows": 1645,
+  "short_window": 20,
+  "long_window": 60,
+  "commission_bps_per_side": 3.0,
+  "slippage_bps_per_side": 2.0,
+  "train_ratio": 0.7,
+  "csv_input": "510300_daily_input.csv",
+  "data_source": "local_csv",
+  "price_adjustment": "unknown",
+  "downloaded_at": "2026-10-22T11:43:11+00:00",
+  "price_snapshot_sha256": "3fddf95a5a36443601a2f9ed02ea38b229dd83e6f23939c182ca3b3685cdc4f7",
+  "input_file_sha256": "a102657b048150b159c08b71f7f01dc05b462c9759ea2f60e0a25fa44b62c8da",
+  "return_basis": "provided_price_series; dividend-adjustment/total-return status unverified",
+  "python_version": "3.13.5",
+  "pandas_version": "2.2.3",
+  "project_version": "1.1.0"
+}
