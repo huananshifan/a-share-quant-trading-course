@@ -1,6 +1,3 @@
-# a-share-quant-trading-course
-A-share Quantitative Trading Course Project
-
 # A股量化交易课程项目：沪深300 ETF 双均线策略
 
 ## 项目简介
